@@ -1,0 +1,421 @@
+state,region,site_name,site_url,search_url
+Alabama,auburn,auburn,https://auburn.craigslist.org/,https://auburn.craigslist.org/search/apa
+Alabama,birmingham,bham,https://bham.craigslist.org/,https://bham.craigslist.org/search/apa
+Alabama,dothan,dothan,https://dothan.craigslist.org/,https://dothan.craigslist.org/search/apa
+Alabama,florence / muscle shoals,shoals,https://shoals.craigslist.org/,https://shoals.craigslist.org/search/apa
+Alabama,gadsden-anniston,gadsden,https://gadsden.craigslist.org/,https://gadsden.craigslist.org/search/apa
+Alabama,huntsville / decatur,huntsville,https://huntsville.craigslist.org/,https://huntsville.craigslist.org/search/apa
+Alabama,mobile,mobile,https://mobile.craigslist.org/,https://mobile.craigslist.org/search/apa
+Alabama,montgomery,montgomery,https://montgomery.craigslist.org/,https://montgomery.craigslist.org/search/apa
+Alabama,tuscaloosa,tuscaloosa,https://tuscaloosa.craigslist.org/,https://tuscaloosa.craigslist.org/search/apa
+Alaska,anchorage / mat-su,anchorage,https://anchorage.craigslist.org/,https://anchorage.craigslist.org/search/apa
+Alaska,fairbanks,fairbanks,https://fairbanks.craigslist.org/,https://fairbanks.craigslist.org/search/apa
+Alaska,kenai peninsula,kenai,https://kenai.craigslist.org/,https://kenai.craigslist.org/search/apa
+Alaska,southeast alaska,juneau,https://juneau.craigslist.org/,https://juneau.craigslist.org/search/apa
+Arizona,flagstaff / sedona,flagstaff,https://flagstaff.craigslist.org/,https://flagstaff.craigslist.org/search/apa
+Arizona,mohave county,mohave,https://mohave.craigslist.org/,https://mohave.craigslist.org/search/apa
+Arizona,phoenix,phoenix,https://phoenix.craigslist.org/,https://phoenix.craigslist.org/search/apa
+Arizona,prescott,prescott,https://prescott.craigslist.org/,https://prescott.craigslist.org/search/apa
+Arizona,show low,showlow,https://showlow.craigslist.org/,https://showlow.craigslist.org/search/apa
+Arizona,sierra vista,sierravista,https://sierravista.craigslist.org/,https://sierravista.craigslist.org/search/apa
+Arizona,tucson,tucson,https://tucson.craigslist.org/,https://tucson.craigslist.org/search/apa
+Arizona,yuma,yuma,https://yuma.craigslist.org/,https://yuma.craigslist.org/search/apa
+Arkansas,fayetteville ,fayar,https://fayar.craigslist.org/,https://fayar.craigslist.org/search/apa
+Arkansas,fort smith,fortsmith,https://fortsmith.craigslist.org/,https://fortsmith.craigslist.org/search/apa
+Arkansas,jonesboro,jonesboro,https://jonesboro.craigslist.org/,https://jonesboro.craigslist.org/search/apa
+Arkansas,little rock,littlerock,https://littlerock.craigslist.org/,https://littlerock.craigslist.org/search/apa
+Arkansas,texarkana,texarkana,https://texarkana.craigslist.org/,https://texarkana.craigslist.org/search/apa
+California,bakersfield,bakersfield,https://bakersfield.craigslist.org/,https://bakersfield.craigslist.org/search/apa
+California,chico,chico,https://chico.craigslist.org/,https://chico.craigslist.org/search/apa
+California,fresno / madera,fresno,https://fresno.craigslist.org/,https://fresno.craigslist.org/search/apa
+California,gold country,goldcountry,https://goldcountry.craigslist.org/,https://goldcountry.craigslist.org/search/apa
+California,hanford-corcoran,hanford,https://hanford.craigslist.org/,https://hanford.craigslist.org/search/apa
+California,humboldt county,humboldt,https://humboldt.craigslist.org/,https://humboldt.craigslist.org/search/apa
+California,imperial county,imperial,https://imperial.craigslist.org/,https://imperial.craigslist.org/search/apa
+California,inland empire,inlandempire,https://inlandempire.craigslist.org/,https://inlandempire.craigslist.org/search/apa
+California,los angeles,losangeles,https://losangeles.craigslist.org/,https://losangeles.craigslist.org/search/apa
+California,mendocino county,mendocino,https://mendocino.craigslist.org/,https://mendocino.craigslist.org/search/apa
+California,merced,merced,https://merced.craigslist.org/,https://merced.craigslist.org/search/apa
+California,modesto,modesto,https://modesto.craigslist.org/,https://modesto.craigslist.org/search/apa
+California,monterey bay,monterey,https://monterey.craigslist.org/,https://monterey.craigslist.org/search/apa
+California,orange county,orangecounty,https://orangecounty.craigslist.org/,https://orangecounty.craigslist.org/search/apa
+California,palm springs,palmsprings,https://palmsprings.craigslist.org/,https://palmsprings.craigslist.org/search/apa
+California,redding,redding,https://redding.craigslist.org/,https://redding.craigslist.org/search/apa
+California,sacramento,sacramento,https://sacramento.craigslist.org/,https://sacramento.craigslist.org/search/apa
+California,san diego,sandiego,https://sandiego.craigslist.org/,https://sandiego.craigslist.org/search/apa
+California,san francisco bay area,sfbay,https://sfbay.craigslist.org/,https://sfbay.craigslist.org/search/apa
+California,san luis obispo,slo,https://slo.craigslist.org/,https://slo.craigslist.org/search/apa
+California,santa barbara,santabarbara,https://santabarbara.craigslist.org/,https://santabarbara.craigslist.org/search/apa
+California,santa maria,santamaria,https://santamaria.craigslist.org/,https://santamaria.craigslist.org/search/apa
+California,siskiyou county,siskiyou,https://siskiyou.craigslist.org/,https://siskiyou.craigslist.org/search/apa
+California,stockton,stockton,https://stockton.craigslist.org/,https://stockton.craigslist.org/search/apa
+California,susanville,susanville,https://susanville.craigslist.org/,https://susanville.craigslist.org/search/apa
+California,ventura county,ventura,https://ventura.craigslist.org/,https://ventura.craigslist.org/search/apa
+California,visalia-tulare,visalia,https://visalia.craigslist.org/,https://visalia.craigslist.org/search/apa
+California,yuba-sutter,yubasutter,https://yubasutter.craigslist.org/,https://yubasutter.craigslist.org/search/apa
+Colorado,boulder,boulder,https://boulder.craigslist.org/,https://boulder.craigslist.org/search/apa
+Colorado,colorado springs,cosprings,https://cosprings.craigslist.org/,https://cosprings.craigslist.org/search/apa
+Colorado,denver,denver,https://denver.craigslist.org/,https://denver.craigslist.org/search/apa
+Colorado,eastern CO,eastco,https://eastco.craigslist.org/,https://eastco.craigslist.org/search/apa
+Colorado,fort collins / north CO,fortcollins,https://fortcollins.craigslist.org/,https://fortcollins.craigslist.org/search/apa
+Colorado,high rockies,rockies,https://rockies.craigslist.org/,https://rockies.craigslist.org/search/apa
+Colorado,pueblo,pueblo,https://pueblo.craigslist.org/,https://pueblo.craigslist.org/search/apa
+Colorado,western slope,westslope,https://westslope.craigslist.org/,https://westslope.craigslist.org/search/apa
+Connecticut,eastern CT,newlondon,https://newlondon.craigslist.org/,https://newlondon.craigslist.org/search/apa
+Connecticut,hartford,hartford,https://hartford.craigslist.org/,https://hartford.craigslist.org/search/apa
+Connecticut,new haven,newhaven,https://newhaven.craigslist.org/,https://newhaven.craigslist.org/search/apa
+Connecticut,northwest CT,nwct,https://nwct.craigslist.org/,https://nwct.craigslist.org/search/apa
+Delaware,delaware,delaware,https://delaware.craigslist.org/,https://delaware.craigslist.org/search/apa
+District of Columbia,washington,washingtondc,https://washingtondc.craigslist.org/,https://washingtondc.craigslist.org/search/apa
+Florida,broward county,http://miamibrw/,http://miami.craigslist.org/brw/,http://miami.craigslist.org/brw/search/apa
+Florida,daytona beach,daytona,https://daytona.craigslist.org/,https://daytona.craigslist.org/search/apa
+Florida,florida keys,keys,https://keys.craigslist.org/,https://keys.craigslist.org/search/apa
+Florida,fort lauderdale,fortlauderdale,https://fortlauderdale.craigslist.org/,https://fortlauderdale.craigslist.org/search/apa
+Florida,ft myers / SW florida,fortmyers,https://fortmyers.craigslist.org/,https://fortmyers.craigslist.org/search/apa
+Florida,gainesville,gainesville,https://gainesville.craigslist.org/,https://gainesville.craigslist.org/search/apa
+Florida,heartland florida,cfl,https://cfl.craigslist.org/,https://cfl.craigslist.org/search/apa
+Florida,jacksonville,jacksonville,https://jacksonville.craigslist.org/,https://jacksonville.craigslist.org/search/apa
+Florida,lakeland,lakeland,https://lakeland.craigslist.org/,https://lakeland.craigslist.org/search/apa
+Florida,miami / dade,http://miamimdc/,http://miami.craigslist.org/mdc/,http://miami.craigslist.org/mdc/search/apa
+Florida,north central FL,lakecity,https://lakecity.craigslist.org/,https://lakecity.craigslist.org/search/apa
+Florida,ocala,ocala,https://ocala.craigslist.org/,https://ocala.craigslist.org/search/apa
+Florida,okaloosa / walton,okaloosa,https://okaloosa.craigslist.org/,https://okaloosa.craigslist.org/search/apa
+Florida,orlando,orlando,https://orlando.craigslist.org/,https://orlando.craigslist.org/search/apa
+Florida,panama city,panamacity,https://panamacity.craigslist.org/,https://panamacity.craigslist.org/search/apa
+Florida,pensacola,pensacola,https://pensacola.craigslist.org/,https://pensacola.craigslist.org/search/apa
+Florida,sarasota-bradenton,sarasota,https://sarasota.craigslist.org/,https://sarasota.craigslist.org/search/apa
+Florida,south florida,miami,https://miami.craigslist.org/,https://miami.craigslist.org/search/apa
+Florida,space coast,spacecoast,https://spacecoast.craigslist.org/,https://spacecoast.craigslist.org/search/apa
+Florida,st augustine,staugustine,https://staugustine.craigslist.org/,https://staugustine.craigslist.org/search/apa
+Florida,tallahassee,tallahassee,https://tallahassee.craigslist.org/,https://tallahassee.craigslist.org/search/apa
+Florida,tampa bay area,tampa,https://tampa.craigslist.org/,https://tampa.craigslist.org/search/apa
+Florida,treasure coast,treasure,https://treasure.craigslist.org/,https://treasure.craigslist.org/search/apa
+Florida,palm beach county,http://miamipbc/,http://miami.craigslist.org/pbc/,http://miami.craigslist.org/pbc/search/apa
+Georgia,albany ,albanyga,https://albanyga.craigslist.org/,https://albanyga.craigslist.org/search/apa
+Georgia,athens,athensga,https://athensga.craigslist.org/,https://athensga.craigslist.org/search/apa
+Georgia,atlanta,atlanta,https://atlanta.craigslist.org/,https://atlanta.craigslist.org/search/apa
+Georgia,augusta,augusta,https://augusta.craigslist.org/,https://augusta.craigslist.org/search/apa
+Georgia,brunswick,brunswick,https://brunswick.craigslist.org/,https://brunswick.craigslist.org/search/apa
+Georgia,columbus ,columbusga,https://columbusga.craigslist.org/,https://columbusga.craigslist.org/search/apa
+Georgia,macon / warner robins,macon,https://macon.craigslist.org/,https://macon.craigslist.org/search/apa
+Georgia,northwest GA,nwga,https://nwga.craigslist.org/,https://nwga.craigslist.org/search/apa
+Georgia,savannah / hinesville,savannah,https://savannah.craigslist.org/,https://savannah.craigslist.org/search/apa
+Georgia,statesboro,statesboro,https://statesboro.craigslist.org/,https://statesboro.craigslist.org/search/apa
+Georgia,valdosta,valdosta,https://valdosta.craigslist.org/,https://valdosta.craigslist.org/search/apa
+Hawaii,hawaii,honolulu,https://honolulu.craigslist.org/,https://honolulu.craigslist.org/search/apa
+Idaho,boise,boise,https://boise.craigslist.org/,https://boise.craigslist.org/search/apa
+Idaho,east idaho,eastidaho,https://eastidaho.craigslist.org/,https://eastidaho.craigslist.org/search/apa
+Idaho,lewiston / clarkston,lewiston,https://lewiston.craigslist.org/,https://lewiston.craigslist.org/search/apa
+Idaho,twin falls,twinfalls,https://twinfalls.craigslist.org/,https://twinfalls.craigslist.org/search/apa
+Illinois,bloomington-normal,bn,https://bn.craigslist.org/,https://bn.craigslist.org/search/apa
+Illinois,champaign urbana,chambana,https://chambana.craigslist.org/,https://chambana.craigslist.org/search/apa
+Illinois,chicago,chicago,https://chicago.craigslist.org/,https://chicago.craigslist.org/search/apa
+Illinois,decatur,decatur,https://decatur.craigslist.org/,https://decatur.craigslist.org/search/apa
+Illinois,la salle co,lasalle,https://lasalle.craigslist.org/,https://lasalle.craigslist.org/search/apa
+Illinois,mattoon-charleston,mattoon,https://mattoon.craigslist.org/,https://mattoon.craigslist.org/search/apa
+Illinois,peoria,peoria,https://peoria.craigslist.org/,https://peoria.craigslist.org/search/apa
+Illinois,rockford,rockford,https://rockford.craigslist.org/,https://rockford.craigslist.org/search/apa
+Illinois,southern illinois,carbondale,https://carbondale.craigslist.org/,https://carbondale.craigslist.org/search/apa
+Illinois,springfield ,springfieldil,https://springfieldil.craigslist.org/,https://springfieldil.craigslist.org/search/apa
+Illinois,western IL,quincy,https://quincy.craigslist.org/,https://quincy.craigslist.org/search/apa
+Indiana,bloomington,bloomington,https://bloomington.craigslist.org/,https://bloomington.craigslist.org/search/apa
+Indiana,evansville,evansville,https://evansville.craigslist.org/,https://evansville.craigslist.org/search/apa
+Indiana,fort wayne,fortwayne,https://fortwayne.craigslist.org/,https://fortwayne.craigslist.org/search/apa
+Indiana,indianapolis,indianapolis,https://indianapolis.craigslist.org/,https://indianapolis.craigslist.org/search/apa
+Indiana,kokomo,kokomo,https://kokomo.craigslist.org/,https://kokomo.craigslist.org/search/apa
+Indiana,lafayette / west lafayette,tippecanoe,https://tippecanoe.craigslist.org/,https://tippecanoe.craigslist.org/search/apa
+Indiana,muncie / anderson,muncie,https://muncie.craigslist.org/,https://muncie.craigslist.org/search/apa
+Indiana,richmond ,richmondin,https://richmondin.craigslist.org/,https://richmondin.craigslist.org/search/apa
+Indiana,south bend / michiana,southbend,https://southbend.craigslist.org/,https://southbend.craigslist.org/search/apa
+Indiana,terre haute,terrehaute,https://terrehaute.craigslist.org/,https://terrehaute.craigslist.org/search/apa
+Iowa,ames,ames,https://ames.craigslist.org/,https://ames.craigslist.org/search/apa
+Iowa,cedar rapids,cedarrapids,https://cedarrapids.craigslist.org/,https://cedarrapids.craigslist.org/search/apa
+Iowa,des moines,desmoines,https://desmoines.craigslist.org/,https://desmoines.craigslist.org/search/apa
+Iowa,dubuque,dubuque,https://dubuque.craigslist.org/,https://dubuque.craigslist.org/search/apa
+Iowa,fort dodge,fortdodge,https://fortdodge.craigslist.org/,https://fortdodge.craigslist.org/search/apa
+Iowa,iowa city,iowacity,https://iowacity.craigslist.org/,https://iowacity.craigslist.org/search/apa
+Iowa,mason city,masoncity,https://masoncity.craigslist.org/,https://masoncity.craigslist.org/search/apa
+Iowa,quad cities,quadcities,https://quadcities.craigslist.org/,https://quadcities.craigslist.org/search/apa
+Iowa,sioux city,siouxcity,https://siouxcity.craigslist.org/,https://siouxcity.craigslist.org/search/apa
+Iowa,southeast IA,ottumwa,https://ottumwa.craigslist.org/,https://ottumwa.craigslist.org/search/apa
+Iowa,waterloo / cedar falls,waterloo,https://waterloo.craigslist.org/,https://waterloo.craigslist.org/search/apa
+Kansas,lawrence,lawrence,https://lawrence.craigslist.org/,https://lawrence.craigslist.org/search/apa
+Kansas,manhattan,ksu,https://ksu.craigslist.org/,https://ksu.craigslist.org/search/apa
+Kansas,northwest KS,nwks,https://nwks.craigslist.org/,https://nwks.craigslist.org/search/apa
+Kansas,salina,salina,https://salina.craigslist.org/,https://salina.craigslist.org/search/apa
+Kansas,southeast KS,seks,https://seks.craigslist.org/,https://seks.craigslist.org/search/apa
+Kansas,southwest KS,swks,https://swks.craigslist.org/,https://swks.craigslist.org/search/apa
+Kansas,topeka,topeka,https://topeka.craigslist.org/,https://topeka.craigslist.org/search/apa
+Kansas,wichita,wichita,https://wichita.craigslist.org/,https://wichita.craigslist.org/search/apa
+Kentucky,bowling green,bgky,https://bgky.craigslist.org/,https://bgky.craigslist.org/search/apa
+Kentucky,eastern kentucky,eastky,https://eastky.craigslist.org/,https://eastky.craigslist.org/search/apa
+Kentucky,lexington,lexington,https://lexington.craigslist.org/,https://lexington.craigslist.org/search/apa
+Kentucky,louisville,louisville,https://louisville.craigslist.org/,https://louisville.craigslist.org/search/apa
+Kentucky,owensboro,owensboro,https://owensboro.craigslist.org/,https://owensboro.craigslist.org/search/apa
+Kentucky,western KY,westky,https://westky.craigslist.org/,https://westky.craigslist.org/search/apa
+Louisiana,baton rouge,batonrouge,https://batonrouge.craigslist.org/,https://batonrouge.craigslist.org/search/apa
+Louisiana,central louisiana,cenla,https://cenla.craigslist.org/,https://cenla.craigslist.org/search/apa
+Louisiana,houma,houma,https://houma.craigslist.org/,https://houma.craigslist.org/search/apa
+Louisiana,lafayette,lafayette,https://lafayette.craigslist.org/,https://lafayette.craigslist.org/search/apa
+Louisiana,lake charles,lakecharles,https://lakecharles.craigslist.org/,https://lakecharles.craigslist.org/search/apa
+Louisiana,monroe,monroe,https://monroe.craigslist.org/,https://monroe.craigslist.org/search/apa
+Louisiana,new orleans,neworleans,https://neworleans.craigslist.org/,https://neworleans.craigslist.org/search/apa
+Louisiana,shreveport,shreveport,https://shreveport.craigslist.org/,https://shreveport.craigslist.org/search/apa
+Maine,maine,maine,https://maine.craigslist.org/,https://maine.craigslist.org/search/apa
+Maryland,annapolis,annapolis,https://annapolis.craigslist.org/,https://annapolis.craigslist.org/search/apa
+Maryland,baltimore,baltimore,https://baltimore.craigslist.org/,https://baltimore.craigslist.org/search/apa
+Maryland,eastern shore,easternshore,https://easternshore.craigslist.org/,https://easternshore.craigslist.org/search/apa
+Maryland,frederick,frederick,https://frederick.craigslist.org/,https://frederick.craigslist.org/search/apa
+Maryland,southern maryland,smd,https://smd.craigslist.org/,https://smd.craigslist.org/search/apa
+Maryland,western maryland,westmd,https://westmd.craigslist.org/,https://westmd.craigslist.org/search/apa
+Massachusetts,boston,boston,https://boston.craigslist.org/,https://boston.craigslist.org/search/apa
+Massachusetts,cape cod / islands,capecod,https://capecod.craigslist.org/,https://capecod.craigslist.org/search/apa
+Massachusetts,south coast,southcoast,https://southcoast.craigslist.org/,https://southcoast.craigslist.org/search/apa
+Massachusetts,western massachusetts,westernmass,https://westernmass.craigslist.org/,https://westernmass.craigslist.org/search/apa
+Massachusetts,worcester / central MA,worcester,https://worcester.craigslist.org/,https://worcester.craigslist.org/search/apa
+Michigan,ann arbor,annarbor,https://annarbor.craigslist.org/,https://annarbor.craigslist.org/search/apa
+Michigan,battle creek,battlecreek,https://battlecreek.craigslist.org/,https://battlecreek.craigslist.org/search/apa
+Michigan,central michigan,centralmich,https://centralmich.craigslist.org/,https://centralmich.craigslist.org/search/apa
+Michigan,detroit metro,detroit,https://detroit.craigslist.org/,https://detroit.craigslist.org/search/apa
+Michigan,flint,flint,https://flint.craigslist.org/,https://flint.craigslist.org/search/apa
+Michigan,grand rapids,grandrapids,https://grandrapids.craigslist.org/,https://grandrapids.craigslist.org/search/apa
+Michigan,holland,holland,https://holland.craigslist.org/,https://holland.craigslist.org/search/apa
+Michigan,jackson ,jxn,https://jxn.craigslist.org/,https://jxn.craigslist.org/search/apa
+Michigan,kalamazoo,kalamazoo,https://kalamazoo.craigslist.org/,https://kalamazoo.craigslist.org/search/apa
+Michigan,lansing,lansing,https://lansing.craigslist.org/,https://lansing.craigslist.org/search/apa
+Michigan,monroe ,monroemi,https://monroemi.craigslist.org/,https://monroemi.craigslist.org/search/apa
+Michigan,muskegon,muskegon,https://muskegon.craigslist.org/,https://muskegon.craigslist.org/search/apa
+Michigan,northern michigan,nmi,https://nmi.craigslist.org/,https://nmi.craigslist.org/search/apa
+Michigan,port huron,porthuron,https://porthuron.craigslist.org/,https://porthuron.craigslist.org/search/apa
+Michigan,saginaw-midland-baycity,saginaw,https://saginaw.craigslist.org/,https://saginaw.craigslist.org/search/apa
+Michigan,southwest michigan,swmi,https://swmi.craigslist.org/,https://swmi.craigslist.org/search/apa
+Michigan,the thumb,thumb,https://thumb.craigslist.org/,https://thumb.craigslist.org/search/apa
+Michigan,upper peninsula,up,https://up.craigslist.org/,https://up.craigslist.org/search/apa
+Minnesota,bemidji,bemidji,https://bemidji.craigslist.org/,https://bemidji.craigslist.org/search/apa
+Minnesota,brainerd,brainerd,https://brainerd.craigslist.org/,https://brainerd.craigslist.org/search/apa
+Minnesota,duluth / superior,duluth,https://duluth.craigslist.org/,https://duluth.craigslist.org/search/apa
+Minnesota,mankato,mankato,https://mankato.craigslist.org/,https://mankato.craigslist.org/search/apa
+Minnesota,minneapolis / st paul,minneapolis,https://minneapolis.craigslist.org/,https://minneapolis.craigslist.org/search/apa
+Minnesota,rochester ,rmn,https://rmn.craigslist.org/,https://rmn.craigslist.org/search/apa
+Minnesota,southwest MN,marshall,https://marshall.craigslist.org/,https://marshall.craigslist.org/search/apa
+Minnesota,st cloud,stcloud,https://stcloud.craigslist.org/,https://stcloud.craigslist.org/search/apa
+Mississippi,gulfport / biloxi,gulfport,https://gulfport.craigslist.org/,https://gulfport.craigslist.org/search/apa
+Mississippi,hattiesburg,hattiesburg,https://hattiesburg.craigslist.org/,https://hattiesburg.craigslist.org/search/apa
+Mississippi,jackson,jackson,https://jackson.craigslist.org/,https://jackson.craigslist.org/search/apa
+Mississippi,meridian,meridian,https://meridian.craigslist.org/,https://meridian.craigslist.org/search/apa
+Mississippi,north mississippi,northmiss,https://northmiss.craigslist.org/,https://northmiss.craigslist.org/search/apa
+Mississippi,southwest MS,natchez,https://natchez.craigslist.org/,https://natchez.craigslist.org/search/apa
+Missouri,columbia / jeff city,columbiamo,https://columbiamo.craigslist.org/,https://columbiamo.craigslist.org/search/apa
+Missouri,joplin,joplin,https://joplin.craigslist.org/,https://joplin.craigslist.org/search/apa
+Missouri,kansas city,kansascity,https://kansascity.craigslist.org/,https://kansascity.craigslist.org/search/apa
+Missouri,kirksville,kirksville,https://kirksville.craigslist.org/,https://kirksville.craigslist.org/search/apa
+Missouri,lake of the ozarks,loz,https://loz.craigslist.org/,https://loz.craigslist.org/search/apa
+Missouri,southeast missouri,semo,https://semo.craigslist.org/,https://semo.craigslist.org/search/apa
+Missouri,springfield,springfield,https://springfield.craigslist.org/,https://springfield.craigslist.org/search/apa
+Missouri,st joseph,stjoseph,https://stjoseph.craigslist.org/,https://stjoseph.craigslist.org/search/apa
+Missouri,st louis,stlouis,https://stlouis.craigslist.org/,https://stlouis.craigslist.org/search/apa
+Montana,billings,billings,https://billings.craigslist.org/,https://billings.craigslist.org/search/apa
+Montana,bozeman,bozeman,https://bozeman.craigslist.org/,https://bozeman.craigslist.org/search/apa
+Montana,butte,butte,https://butte.craigslist.org/,https://butte.craigslist.org/search/apa
+Montana,great falls,greatfalls,https://greatfalls.craigslist.org/,https://greatfalls.craigslist.org/search/apa
+Montana,helena,helena,https://helena.craigslist.org/,https://helena.craigslist.org/search/apa
+Montana,kalispell,kalispell,https://kalispell.craigslist.org/,https://kalispell.craigslist.org/search/apa
+Montana,missoula,missoula,https://missoula.craigslist.org/,https://missoula.craigslist.org/search/apa
+Montana,eastern montana,montana,https://montana.craigslist.org/,https://montana.craigslist.org/search/apa
+Nebraska,grand island,grandisland,https://grandisland.craigslist.org/,https://grandisland.craigslist.org/search/apa
+Nebraska,lincoln,lincoln,https://lincoln.craigslist.org/,https://lincoln.craigslist.org/search/apa
+Nebraska,north platte,northplatte,https://northplatte.craigslist.org/,https://northplatte.craigslist.org/search/apa
+Nebraska,omaha / council bluffs,omaha,https://omaha.craigslist.org/,https://omaha.craigslist.org/search/apa
+Nebraska,scottsbluff / panhandle,scottsbluff,https://scottsbluff.craigslist.org/,https://scottsbluff.craigslist.org/search/apa
+Nevada,elko,elko,https://elko.craigslist.org/,https://elko.craigslist.org/search/apa
+Nevada,las vegas,lasvegas,https://lasvegas.craigslist.org/,https://lasvegas.craigslist.org/search/apa
+Nevada,reno / tahoe,reno,https://reno.craigslist.org/,https://reno.craigslist.org/search/apa
+New Hampshire,new hampshire,nh,https://nh.craigslist.org/,https://nh.craigslist.org/search/apa
+New Jersey,central NJ,cnj,https://cnj.craigslist.org/,https://cnj.craigslist.org/search/apa
+New Jersey,jersey shore,jerseyshore,https://jerseyshore.craigslist.org/,https://jerseyshore.craigslist.org/search/apa
+New Jersey,north jersey,newjersey,https://newjersey.craigslist.org/,https://newjersey.craigslist.org/search/apa
+New Jersey,south jersey,southjersey,https://southjersey.craigslist.org/,https://southjersey.craigslist.org/search/apa
+New Mexico,albuquerque,albuquerque,https://albuquerque.craigslist.org/,https://albuquerque.craigslist.org/search/apa
+New Mexico,clovis / portales,clovis,https://clovis.craigslist.org/,https://clovis.craigslist.org/search/apa
+New Mexico,farmington,farmington,https://farmington.craigslist.org/,https://farmington.craigslist.org/search/apa
+New Mexico,las cruces,lascruces,https://lascruces.craigslist.org/,https://lascruces.craigslist.org/search/apa
+New Mexico,roswell / carlsbad,roswell,https://roswell.craigslist.org/,https://roswell.craigslist.org/search/apa
+New Mexico,santa fe / taos,santafe,https://santafe.craigslist.org/,https://santafe.craigslist.org/search/apa
+New York,albany,albany,https://albany.craigslist.org/,https://albany.craigslist.org/search/apa
+New York,binghamton,binghamton,https://binghamton.craigslist.org/,https://binghamton.craigslist.org/search/apa
+New York,buffalo,buffalo,https://buffalo.craigslist.org/,https://buffalo.craigslist.org/search/apa
+New York,catskills,catskills,https://catskills.craigslist.org/,https://catskills.craigslist.org/search/apa
+New York,chautauqua,chautauqua,https://chautauqua.craigslist.org/,https://chautauqua.craigslist.org/search/apa
+New York,elmira-corning,elmira,https://elmira.craigslist.org/,https://elmira.craigslist.org/search/apa
+New York,finger lakes,fingerlakes,https://fingerlakes.craigslist.org/,https://fingerlakes.craigslist.org/search/apa
+New York,glens falls,glensfalls,https://glensfalls.craigslist.org/,https://glensfalls.craigslist.org/search/apa
+New York,hudson valley,hudsonvalley,https://hudsonvalley.craigslist.org/,https://hudsonvalley.craigslist.org/search/apa
+New York,ithaca,ithaca,https://ithaca.craigslist.org/,https://ithaca.craigslist.org/search/apa
+New York,long island,longisland,https://longisland.craigslist.org/,https://longisland.craigslist.org/search/apa
+New York,new york city,newyork,https://newyork.craigslist.org/,https://newyork.craigslist.org/search/apa
+New York,oneonta,oneonta,https://oneonta.craigslist.org/,https://oneonta.craigslist.org/search/apa
+New York,plattsburgh-adirondacks,plattsburgh,https://plattsburgh.craigslist.org/,https://plattsburgh.craigslist.org/search/apa
+New York,potsdam-canton-massena,potsdam,https://potsdam.craigslist.org/,https://potsdam.craigslist.org/search/apa
+New York,rochester,rochester,https://rochester.craigslist.org/,https://rochester.craigslist.org/search/apa
+New York,syracuse,syracuse,https://syracuse.craigslist.org/,https://syracuse.craigslist.org/search/apa
+New York,twin tiers NY/PA,twintiers,https://twintiers.craigslist.org/,https://twintiers.craigslist.org/search/apa
+New York,utica-rome-oneida,utica,https://utica.craigslist.org/,https://utica.craigslist.org/search/apa
+New York,watertown,watertown,https://watertown.craigslist.org/,https://watertown.craigslist.org/search/apa
+North Carolina,asheville,asheville,https://asheville.craigslist.org/,https://asheville.craigslist.org/search/apa
+North Carolina,boone,boone,https://boone.craigslist.org/,https://boone.craigslist.org/search/apa
+North Carolina,charlotte,charlotte,https://charlotte.craigslist.org/,https://charlotte.craigslist.org/search/apa
+North Carolina,eastern NC,eastnc,https://eastnc.craigslist.org/,https://eastnc.craigslist.org/search/apa
+North Carolina,fayetteville,fayetteville,https://fayetteville.craigslist.org/,https://fayetteville.craigslist.org/search/apa
+North Carolina,greensboro,greensboro,https://greensboro.craigslist.org/,https://greensboro.craigslist.org/search/apa
+North Carolina,hickory / lenoir,hickory,https://hickory.craigslist.org/,https://hickory.craigslist.org/search/apa
+North Carolina,jacksonville ,onslow,https://onslow.craigslist.org/,https://onslow.craigslist.org/search/apa
+North Carolina,outer banks,outerbanks,https://outerbanks.craigslist.org/,https://outerbanks.craigslist.org/search/apa
+North Carolina,raleigh / durham / CH,raleigh,https://raleigh.craigslist.org/,https://raleigh.craigslist.org/search/apa
+North Carolina,wilmington,wilmington,https://wilmington.craigslist.org/,https://wilmington.craigslist.org/search/apa
+North Carolina,winston-salem,winstonsalem,https://winstonsalem.craigslist.org/,https://winstonsalem.craigslist.org/search/apa
+North Dakota,bismarck,bismarck,https://bismarck.craigslist.org/,https://bismarck.craigslist.org/search/apa
+North Dakota,fargo / moorhead,fargo,https://fargo.craigslist.org/,https://fargo.craigslist.org/search/apa
+North Dakota,grand forks,grandforks,https://grandforks.craigslist.org/,https://grandforks.craigslist.org/search/apa
+North Dakota,north dakota,nd,https://nd.craigslist.org/,https://nd.craigslist.org/search/apa
+Ohio,akron / canton,akroncanton,https://akroncanton.craigslist.org/,https://akroncanton.craigslist.org/search/apa
+Ohio,ashtabula,ashtabula,https://ashtabula.craigslist.org/,https://ashtabula.craigslist.org/search/apa
+Ohio,athens ,athensohio,https://athensohio.craigslist.org/,https://athensohio.craigslist.org/search/apa
+Ohio,chillicothe,chillicothe,https://chillicothe.craigslist.org/,https://chillicothe.craigslist.org/search/apa
+Ohio,cincinnati,cincinnati,https://cincinnati.craigslist.org/,https://cincinnati.craigslist.org/search/apa
+Ohio,cleveland,cleveland,https://cleveland.craigslist.org/,https://cleveland.craigslist.org/search/apa
+Ohio,columbus,columbus,https://columbus.craigslist.org/,https://columbus.craigslist.org/search/apa
+Ohio,dayton / springfield,dayton,https://dayton.craigslist.org/,https://dayton.craigslist.org/search/apa
+Ohio,lima / findlay,limaohio,https://limaohio.craigslist.org/,https://limaohio.craigslist.org/search/apa
+Ohio,mansfield,mansfield,https://mansfield.craigslist.org/,https://mansfield.craigslist.org/search/apa
+Ohio,sandusky,sandusky,https://sandusky.craigslist.org/,https://sandusky.craigslist.org/search/apa
+Ohio,toledo,toledo,https://toledo.craigslist.org/,https://toledo.craigslist.org/search/apa
+Ohio,tuscarawas co,tuscarawas,https://tuscarawas.craigslist.org/,https://tuscarawas.craigslist.org/search/apa
+Ohio,youngstown,youngstown,https://youngstown.craigslist.org/,https://youngstown.craigslist.org/search/apa
+Ohio,zanesville / cambridge,zanesville,https://zanesville.craigslist.org/,https://zanesville.craigslist.org/search/apa
+Oklahoma,lawton,lawton,https://lawton.craigslist.org/,https://lawton.craigslist.org/search/apa
+Oklahoma,northwest OK,enid,https://enid.craigslist.org/,https://enid.craigslist.org/search/apa
+Oklahoma,oklahoma city,oklahomacity,https://oklahomacity.craigslist.org/,https://oklahomacity.craigslist.org/search/apa
+Oklahoma,stillwater,stillwater,https://stillwater.craigslist.org/,https://stillwater.craigslist.org/search/apa
+Oklahoma,tulsa,tulsa,https://tulsa.craigslist.org/,https://tulsa.craigslist.org/search/apa
+Oregon,bend,bend,https://bend.craigslist.org/,https://bend.craigslist.org/search/apa
+Oregon,corvallis/albany,corvallis,https://corvallis.craigslist.org/,https://corvallis.craigslist.org/search/apa
+Oregon,east oregon,eastoregon,https://eastoregon.craigslist.org/,https://eastoregon.craigslist.org/search/apa
+Oregon,eugene,eugene,https://eugene.craigslist.org/,https://eugene.craigslist.org/search/apa
+Oregon,klamath falls,klamath,https://klamath.craigslist.org/,https://klamath.craigslist.org/search/apa
+Oregon,medford-ashland,medford,https://medford.craigslist.org/,https://medford.craigslist.org/search/apa
+Oregon,oregon coast,oregoncoast,https://oregoncoast.craigslist.org/,https://oregoncoast.craigslist.org/search/apa
+Oregon,portland,portland,https://portland.craigslist.org/,https://portland.craigslist.org/search/apa
+Oregon,roseburg,roseburg,https://roseburg.craigslist.org/,https://roseburg.craigslist.org/search/apa
+Oregon,salem,salem,https://salem.craigslist.org/,https://salem.craigslist.org/search/apa
+Pennsylvania,altoona-johnstown,altoona,https://altoona.craigslist.org/,https://altoona.craigslist.org/search/apa
+Pennsylvania,cumberland valley,chambersburg,https://chambersburg.craigslist.org/,https://chambersburg.craigslist.org/search/apa
+Pennsylvania,erie,erie,https://erie.craigslist.org/,https://erie.craigslist.org/search/apa
+Pennsylvania,harrisburg,harrisburg,https://harrisburg.craigslist.org/,https://harrisburg.craigslist.org/search/apa
+Pennsylvania,lancaster,lancaster,https://lancaster.craigslist.org/,https://lancaster.craigslist.org/search/apa
+Pennsylvania,lehigh valley,allentown,https://allentown.craigslist.org/,https://allentown.craigslist.org/search/apa
+Pennsylvania,meadville,meadville,https://meadville.craigslist.org/,https://meadville.craigslist.org/search/apa
+Pennsylvania,philadelphia,philadelphia,https://philadelphia.craigslist.org/,https://philadelphia.craigslist.org/search/apa
+Pennsylvania,pittsburgh,pittsburgh,https://pittsburgh.craigslist.org/,https://pittsburgh.craigslist.org/search/apa
+Pennsylvania,poconos,poconos,https://poconos.craigslist.org/,https://poconos.craigslist.org/search/apa
+Pennsylvania,reading,reading,https://reading.craigslist.org/,https://reading.craigslist.org/search/apa
+Pennsylvania,scranton / wilkes-barre,scranton,https://scranton.craigslist.org/,https://scranton.craigslist.org/search/apa
+Pennsylvania,state college,pennstate,https://pennstate.craigslist.org/,https://pennstate.craigslist.org/search/apa
+Pennsylvania,williamsport,williamsport,https://williamsport.craigslist.org/,https://williamsport.craigslist.org/search/apa
+Pennsylvania,york,york,https://york.craigslist.org/,https://york.craigslist.org/search/apa
+Rhode Island,rhode island,providence,https://providence.craigslist.org/,https://providence.craigslist.org/search/apa
+South Carolina,charleston,charleston,https://charleston.craigslist.org/,https://charleston.craigslist.org/search/apa
+South Carolina,columbia,columbia,https://columbia.craigslist.org/,https://columbia.craigslist.org/search/apa
+South Carolina,florence,florencesc,https://florencesc.craigslist.org/,https://florencesc.craigslist.org/search/apa
+South Carolina,greenville / upstate,greenville,https://greenville.craigslist.org/,https://greenville.craigslist.org/search/apa
+South Carolina,hilton head,hiltonhead,https://hiltonhead.craigslist.org/,https://hiltonhead.craigslist.org/search/apa
+South Carolina,myrtle beach,myrtlebeach,https://myrtlebeach.craigslist.org/,https://myrtlebeach.craigslist.org/search/apa
+South Dakota,northeast SD,nesd,https://nesd.craigslist.org/,https://nesd.craigslist.org/search/apa
+South Dakota,pierre / central SD,csd,https://csd.craigslist.org/,https://csd.craigslist.org/search/apa
+South Dakota,rapid city / west SD,rapidcity,https://rapidcity.craigslist.org/,https://rapidcity.craigslist.org/search/apa
+South Dakota,sioux falls / SE SD,siouxfalls,https://siouxfalls.craigslist.org/,https://siouxfalls.craigslist.org/search/apa
+South Dakota,south dakota,sd,https://sd.craigslist.org/,https://sd.craigslist.org/search/apa
+Tennessee,chattanooga,chattanooga,https://chattanooga.craigslist.org/,https://chattanooga.craigslist.org/search/apa
+Tennessee,clarksville,clarksville,https://clarksville.craigslist.org/,https://clarksville.craigslist.org/search/apa
+Tennessee,cookeville,cookeville,https://cookeville.craigslist.org/,https://cookeville.craigslist.org/search/apa
+Tennessee,jackson  ,jacksontn,https://jacksontn.craigslist.org/,https://jacksontn.craigslist.org/search/apa
+Tennessee,knoxville,knoxville,https://knoxville.craigslist.org/,https://knoxville.craigslist.org/search/apa
+Tennessee,memphis,memphis,https://memphis.craigslist.org/,https://memphis.craigslist.org/search/apa
+Tennessee,nashville,nashville,https://nashville.craigslist.org/,https://nashville.craigslist.org/search/apa
+Tennessee,tri-cities,tricities,https://tricities.craigslist.org/,https://tricities.craigslist.org/search/apa
+Texas,abilene,abilene,https://abilene.craigslist.org/,https://abilene.craigslist.org/search/apa
+Texas,amarillo,amarillo,https://amarillo.craigslist.org/,https://amarillo.craigslist.org/search/apa
+Texas,austin,austin,https://austin.craigslist.org/,https://austin.craigslist.org/search/apa
+Texas,beaumont / port arthur,beaumont,https://beaumont.craigslist.org/,https://beaumont.craigslist.org/search/apa
+Texas,brownsville,brownsville,https://brownsville.craigslist.org/,https://brownsville.craigslist.org/search/apa
+Texas,college station,collegestation,https://collegestation.craigslist.org/,https://collegestation.craigslist.org/search/apa
+Texas,corpus christi,corpuschristi,https://corpuschristi.craigslist.org/,https://corpuschristi.craigslist.org/search/apa
+Texas,dallas / fort worth,dallas,https://dallas.craigslist.org/,https://dallas.craigslist.org/search/apa
+Texas,deep east texas,nacogdoches,https://nacogdoches.craigslist.org/,https://nacogdoches.craigslist.org/search/apa
+Texas,del rio / eagle pass,delrio,https://delrio.craigslist.org/,https://delrio.craigslist.org/search/apa
+Texas,el paso,elpaso,https://elpaso.craigslist.org/,https://elpaso.craigslist.org/search/apa
+Texas,galveston,galveston,https://galveston.craigslist.org/,https://galveston.craigslist.org/search/apa
+Texas,houston,houston,https://houston.craigslist.org/,https://houston.craigslist.org/search/apa
+Texas,killeen / temple / ft hood,killeen,https://killeen.craigslist.org/,https://killeen.craigslist.org/search/apa
+Texas,laredo,laredo,https://laredo.craigslist.org/,https://laredo.craigslist.org/search/apa
+Texas,lubbock,lubbock,https://lubbock.craigslist.org/,https://lubbock.craigslist.org/search/apa
+Texas,mcallen / edinburg,mcallen,https://mcallen.craigslist.org/,https://mcallen.craigslist.org/search/apa
+Texas,odessa / midland,odessa,https://odessa.craigslist.org/,https://odessa.craigslist.org/search/apa
+Texas,san angelo,sanangelo,https://sanangelo.craigslist.org/,https://sanangelo.craigslist.org/search/apa
+Texas,san antonio,sanantonio,https://sanantonio.craigslist.org/,https://sanantonio.craigslist.org/search/apa
+Texas,san marcos,sanmarcos,https://sanmarcos.craigslist.org/,https://sanmarcos.craigslist.org/search/apa
+Texas,southwest TX,bigbend,https://bigbend.craigslist.org/,https://bigbend.craigslist.org/search/apa
+Texas,texoma,texoma,https://texoma.craigslist.org/,https://texoma.craigslist.org/search/apa
+Texas,tyler / east TX,easttexas,https://easttexas.craigslist.org/,https://easttexas.craigslist.org/search/apa
+Texas,victoria ,victoriatx,https://victoriatx.craigslist.org/,https://victoriatx.craigslist.org/search/apa
+Texas,waco,waco,https://waco.craigslist.org/,https://waco.craigslist.org/search/apa
+Texas,wichita falls,wichitafalls,https://wichitafalls.craigslist.org/,https://wichitafalls.craigslist.org/search/apa
+Utah,logan,logan,https://logan.craigslist.org/,https://logan.craigslist.org/search/apa
+Utah,ogden-clearfield,ogden,https://ogden.craigslist.org/,https://ogden.craigslist.org/search/apa
+Utah,provo / orem,provo,https://provo.craigslist.org/,https://provo.craigslist.org/search/apa
+Utah,salt lake city,saltlakecity,https://saltlakecity.craigslist.org/,https://saltlakecity.craigslist.org/search/apa
+Utah,st george,stgeorge,https://stgeorge.craigslist.org/,https://stgeorge.craigslist.org/search/apa
+Vermont,vermont,vermont,https://vermont.craigslist.org/,https://vermont.craigslist.org/search/apa
+Virginia,charlottesville,charlottesville,https://charlottesville.craigslist.org/,https://charlottesville.craigslist.org/search/apa
+Virginia,danville,danville,https://danville.craigslist.org/,https://danville.craigslist.org/search/apa
+Virginia,fredericksburg,fredericksburg,https://fredericksburg.craigslist.org/,https://fredericksburg.craigslist.org/search/apa
+Virginia,hampton roads,norfolk,https://norfolk.craigslist.org/,https://norfolk.craigslist.org/search/apa
+Virginia,harrisonburg,harrisonburg,https://harrisonburg.craigslist.org/,https://harrisonburg.craigslist.org/search/apa
+Virginia,lynchburg,lynchburg,https://lynchburg.craigslist.org/,https://lynchburg.craigslist.org/search/apa
+Virginia,new river valley,blacksburg,https://blacksburg.craigslist.org/,https://blacksburg.craigslist.org/search/apa
+Virginia,richmond,richmond,https://richmond.craigslist.org/,https://richmond.craigslist.org/search/apa
+Virginia,roanoke,roanoke,https://roanoke.craigslist.org/,https://roanoke.craigslist.org/search/apa
+Virginia,southwest VA,swva,https://swva.craigslist.org/,https://swva.craigslist.org/search/apa
+Virginia,winchester,winchester,https://winchester.craigslist.org/,https://winchester.craigslist.org/search/apa
+Washington,bellingham,bellingham,https://bellingham.craigslist.org/,https://bellingham.craigslist.org/search/apa
+Washington,kennewick-pasco-richland,kpr,https://kpr.craigslist.org/,https://kpr.craigslist.org/search/apa
+Washington,moses lake,moseslake,https://moseslake.craigslist.org/,https://moseslake.craigslist.org/search/apa
+Washington,olympic peninsula,olympic,https://olympic.craigslist.org/,https://olympic.craigslist.org/search/apa
+Washington,pullman / moscow,pullman,https://pullman.craigslist.org/,https://pullman.craigslist.org/search/apa
+Washington,seattle-tacoma,seattle,https://seattle.craigslist.org/,https://seattle.craigslist.org/search/apa
+Washington,skagit / island / SJI,skagit,https://skagit.craigslist.org/,https://skagit.craigslist.org/search/apa
+Washington,spokane / coeur d'alene,spokane,https://spokane.craigslist.org/,https://spokane.craigslist.org/search/apa
+Washington,wenatchee,wenatchee,https://wenatchee.craigslist.org/,https://wenatchee.craigslist.org/search/apa
+Washington,yakima,yakima,https://yakima.craigslist.org/,https://yakima.craigslist.org/search/apa
+West Virginia,charleston ,charlestonwv,https://charlestonwv.craigslist.org/,https://charlestonwv.craigslist.org/search/apa
+West Virginia,eastern panhandle,martinsburg,https://martinsburg.craigslist.org/,https://martinsburg.craigslist.org/search/apa
+West Virginia,huntington-ashland,huntington,https://huntington.craigslist.org/,https://huntington.craigslist.org/search/apa
+West Virginia,morgantown,morgantown,https://morgantown.craigslist.org/,https://morgantown.craigslist.org/search/apa
+West Virginia,northern panhandle,wheeling,https://wheeling.craigslist.org/,https://wheeling.craigslist.org/search/apa
+West Virginia,parkersburg-marietta,parkersburg,https://parkersburg.craigslist.org/,https://parkersburg.craigslist.org/search/apa
+West Virginia,southern WV,swv,https://swv.craigslist.org/,https://swv.craigslist.org/search/apa
+West Virginia,west virginia (old),wv,https://wv.craigslist.org/,https://wv.craigslist.org/search/apa
+Wisconsin,appleton-oshkosh-FDL,appleton,https://appleton.craigslist.org/,https://appleton.craigslist.org/search/apa
+Wisconsin,eau claire,eauclaire,https://eauclaire.craigslist.org/,https://eauclaire.craigslist.org/search/apa
+Wisconsin,green bay,greenbay,https://greenbay.craigslist.org/,https://greenbay.craigslist.org/search/apa
+Wisconsin,janesville,janesville,https://janesville.craigslist.org/,https://janesville.craigslist.org/search/apa
+Wisconsin,kenosha-racine,racine,https://racine.craigslist.org/,https://racine.craigslist.org/search/apa
+Wisconsin,la crosse,lacrosse,https://lacrosse.craigslist.org/,https://lacrosse.craigslist.org/search/apa
+Wisconsin,madison,madison,https://madison.craigslist.org/,https://madison.craigslist.org/search/apa
+Wisconsin,milwaukee,milwaukee,https://milwaukee.craigslist.org/,https://milwaukee.craigslist.org/search/apa
+Wisconsin,northern WI,northernwi,https://northernwi.craigslist.org/,https://northernwi.craigslist.org/search/apa
+Wisconsin,sheboygan,sheboygan,https://sheboygan.craigslist.org/,https://sheboygan.craigslist.org/search/apa
+Wisconsin,wausau,wausau,https://wausau.craigslist.org/,https://wausau.craigslist.org/search/apa
+Wyoming,wyoming,wyoming,https://wyoming.craigslist.org/,https://wyoming.craigslist.org/search/apa
+Territories,guam-micronesia,micronesia,https://micronesia.craigslist.org/,https://micronesia.craigslist.org/search/apa
+Territories,puerto rico,puertorico,https://puertorico.craigslist.org/,https://puertorico.craigslist.org/search/apa
+Territories,U.S. virgin islands,virgin,https://virgin.craigslist.org/,https://virgin.craigslist.org/search/apa
